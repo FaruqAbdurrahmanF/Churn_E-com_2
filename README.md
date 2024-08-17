@@ -1,4 +1,4 @@
-# Analisa_Hilangnya Pelanggan E-Commerce
+# Analisa Hilangnya Pelanggan E-Commerce
 
 ## Masalah
 Terdapat 16,8% dari 5630 pelanggan E-commerce yang berhenti atau tidak menggunakan layanan
